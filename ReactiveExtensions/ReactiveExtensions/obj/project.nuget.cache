@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OmyPnsfhgpE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Reactive-Extensions\\ReactiveExtensions\\ReactiveExtensions\\ReactiveExtensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
