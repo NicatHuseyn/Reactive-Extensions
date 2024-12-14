@@ -1,5 +1,5 @@
 
-  <h1>IObservable & IObserver | Reactive Extensions</h1>
+  <h1>IObservable & IObserver | Reactive Extensions Rx</h1>
 
   <p>
       C# proqramlaşdırma dilində, Reactive Extensions (Rx) kitabxanasında olan
